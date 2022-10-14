@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\bin\Debug\PrincipiosSOLID-L.exe.config
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\bin\Debug\PrincipiosSOLID-L.exe
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\bin\Debug\PrincipiosSOLID-L.pdb
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\obj\Debug\PrincipiosSOLID-L.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\obj\Debug\PrincipiosSOLID-L.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\obj\Debug\PrincipiosSOLID-L.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\obj\Debug\PrincipiosSOLID-L.exe
+C:\Users\maria\source\repos\PrincipiosSOLID-L\PrincipiosSOLID-L\obj\Debug\PrincipiosSOLID-L.pdb
